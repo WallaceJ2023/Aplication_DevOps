@@ -1,6 +1,6 @@
 # Como Rodar o Projeto
 
-Este projeto é um Progressive Web App (PWA) desenvolvido com Spingboot. Siga as instruções abaixo para configurar e rodar o projeto localmente.
+Este projeto é desenvolvido com Spingboot. Siga as instruções abaixo para configurar e rodar o projeto localmente.
 
 ## Pré-requisitos
 
