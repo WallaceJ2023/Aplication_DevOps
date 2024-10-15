@@ -1,13 +1,12 @@
 # Como Rodar o Projeto
 
-Este projeto é um Progressive Web App (PWA) desenvolvido com Vite e React. Siga as instruções abaixo para configurar e rodar o projeto localmente.
+Este projeto é um Progressive Web App (PWA) desenvolvido com Spingboot. Siga as instruções abaixo para configurar e rodar o projeto localmente.
 
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado os seguintes softwares:
 
-- [Node.js](https://nodejs.org/) (versão 14 ou superior)
-- [pnpm](https://pnpm.io/) (ou npm/yarn)
+- [Java](https://www.oracle.com/java/technologies/downloads/)
 - [Git](https://git-scm.com/)
 
 ## Passo a Passo para Rodar o Projeto
