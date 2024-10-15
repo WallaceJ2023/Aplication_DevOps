@@ -16,4 +16,4 @@ Antes de começar, certifique-se de ter instalado os seguintes softwares:
 Primeiro, faça o clone do repositório em sua máquina local usando o Git:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/WallaceJ2023/Aplication_DevOps.git
